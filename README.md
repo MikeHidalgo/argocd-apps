@@ -1,0 +1,2 @@
+# argocd-apps
+for fun
