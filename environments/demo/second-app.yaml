@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/MikeHidalgo/argocd-apps.git
     targetRevision: HEAD
-    path: app_one/second-app
+    path: apps/second-app
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
